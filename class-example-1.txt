@@ -4,10 +4,10 @@ Attributes
 hoursLong (float)
 isFull (boolean)
 teacher (string)
-name (array)
+students (array)
 
 Methods
 increaseLength (increases hoursLong)
 fillClass (updates isFull to true)
 changeTeacher (updates teacher)
-updateName (updates name)
+updateStudents (updates students)
