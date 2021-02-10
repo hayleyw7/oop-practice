@@ -2,12 +2,13 @@ instance physicalEducation
 
 Attributes
 hoursLong = 1.5
-isFull = true
+isFull = false
 teacher = "Joe Smith"
 students = ["Mike", "Sara", "Chris", "Jess"]
 
 Methods
-increaseLength (increases hoursLong)
-fillClass (updates isFull to true)
-changeTeacher (updates teacher)
-updateStudents (updates students)
+
+increaseLength: hoursLong = 2
+fillClass: isFull = true
+changeTeacher: teacher = "Sara Wilson"
+updateStudents: students = ["Mike", "Sara", "Chris", "Jess", "Carl"]
