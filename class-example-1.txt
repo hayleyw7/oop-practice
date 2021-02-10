@@ -1,0 +1,13 @@
+class Course
+
+Attributes
+hoursLong (float)
+isFull (boolean)
+teacher (string)
+name (array)
+
+Methods
+increaseLength (increases hoursLong)
+fillClass (updates isFull to true)
+changeTeacher (updates teacher)
+updateName (updates name)
