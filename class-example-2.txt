@@ -1,0 +1,13 @@
+class Student
+
+Attributes
+hairColor (string)
+isFreshman (boolean)
+age (integer)
+names (array)
+
+Methods
+colorHair (updates hairColor)
+passGrade (updates isFreshman to false)
+hasBirthday (increases age by 1)
+addName (adds new student to names)
