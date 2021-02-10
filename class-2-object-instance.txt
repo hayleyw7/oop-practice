@@ -1,0 +1,13 @@
+instance student123
+
+Attributes
+hairColor = red
+isFreshman = true
+age = 14
+schedule = ["English", "Math", "Biology"]
+
+Methods
+colorHair: hairColor = black
+passGrade: isFreshman = false
+hasBirthday: age = 15
+addClass: schedule = ["English", "Math", "Biology", "History"]
